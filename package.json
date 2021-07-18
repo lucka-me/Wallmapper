@@ -19,7 +19,7 @@
     "@lucka-labs/eli": "^0.1.2",
     "@types/mapbox-gl": "^1.12.8",
     "@types/mini-css-extract-plugin": "^1.2.1",
-    "@types/node": "^14.14.13",
+    "@types/node": "^16.3.3",
     "@types/terser-webpack-plugin": "^5.0.2",
     "@types/webpack": "^4.41.25",
     "@types/webpack-bundle-analyzer": "^3.9.0",
